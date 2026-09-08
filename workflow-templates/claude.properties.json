@@ -1,0 +1,1 @@
+{"name":"Claude Code","description":"Run Claude Code from issues and pull requests by mentioning @claude. Requires an ANTHROPIC_API_KEY repository secret.","iconName":"octicon comment-discussion","categories":["Automation"]}
